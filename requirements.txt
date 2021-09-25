@@ -1,0 +1,4 @@
+fastapi
+sse-starlette
+uvicorn[standard]
+asyncio
