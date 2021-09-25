@@ -76,3 +76,5 @@ async def message_stream(request: Request):
 ```
 
 Check out the code to get the working example.
+
+Blog post: https://fictionally-irrelevant.vercel.app/posts/why-you-should-use-server-side-events-over-web-sockets-and-long-polling
